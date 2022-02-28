@@ -22,4 +22,10 @@
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="ScoreAppTests\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ScoreAppTests\" />
+  </ItemGroup>
 </Project>

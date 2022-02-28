@@ -8,10 +8,12 @@
     <None Remove="ScoreApp\" />
     <None Remove="Webscraper\" />
     <None Remove="Ardalis.GuardClauses" />
+    <None Remove="Common\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ScoreApp\" />
     <Folder Include="Webscraper\" />
+    <Folder Include="Common\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Ardalis.GuardClauses" Version="4.0.0" />
