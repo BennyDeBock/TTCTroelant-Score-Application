@@ -14,7 +14,7 @@ namespace Domain.ScoreApp
 
         public bool validateSet()
         {
-
+            throw new NotImplementedException();
         }
     }
 }
